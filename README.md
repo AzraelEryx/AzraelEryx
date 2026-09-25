@@ -1,4 +1,4 @@
-# Will
+# Azrael
 
 
 
@@ -26,9 +26,9 @@
 
 
 
-Self-taught front-end developer. No bootcamp, no CS degree — I learned by building things and breaking them until they worked.
+Self-taught front-end developer. I learned by building things and breaking them until they worked.
 
-`HTML` `CSS` `JavaScript` — solid, shipped on real client sites, not just tutorials. Currently learning React, and moving into Python for backend and AI agent work.
+`HTML` `CSS` `JavaScript` — shipped on real client sites, not just tutorials. Currently learning React, and moving into Python for backend and AI agent work.
 
 ## Client work
 
